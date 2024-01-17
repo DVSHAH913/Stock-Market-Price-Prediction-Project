@@ -7,4 +7,4 @@ Utilized Linear regression for stock price prediction and Random Forest Classifi
 These models were chosen for their ability to handle large datasets and provide accurate results. 
 I evaluated the performance of the models using metrics like accuracy.
 I've provided CSV files with the cleaned data so you can easily upload them into your own MySQL database and run the code. 
-Make sure to change the 'host', 'user', 'password' and 'database' values in databse connector 
+Make sure to change the 'host', 'user', 'password' and 'database' values in databse connector. 
